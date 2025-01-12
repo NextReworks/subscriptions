@@ -1,3 +1,7 @@
+url: https://nextreworks.github.io/subscriptions/
+
+rep : https://github.com/NextReworks/subscriptions.git
+
 …or create a new repository on the command line
 
 echo "# subscriptions" >> README.md
